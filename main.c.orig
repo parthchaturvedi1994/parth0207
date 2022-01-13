@@ -7,8 +7,11 @@ Initial Function()
 
 Initial Security()
 {
+<<<<<<< HEAD
  //Sample Code feature1
+=======
  //Sample Code feature2
+>>>>>>> feature2
 }
 
 
